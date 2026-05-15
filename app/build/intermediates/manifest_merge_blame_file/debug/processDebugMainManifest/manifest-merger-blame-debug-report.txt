@@ -1,0 +1,365 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gramaUrja"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+13-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+13-->[com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+14
+15    <permission
+15-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.gramaUrja.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.gramaUrja.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:7:5-38:19
+22        android:allowBackup="true"
+22-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:8:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:10:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:11:9-41
+28        android:largeHeap="true"
+28-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:9:9-33
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:12:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:13:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.GramaUrja" >
+32-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:14:9-47
+33        <activity
+33-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:16:9-24:20
+34            android:name="com.gramaUrja.SplashActivity"
+34-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:17:13-43
+35            android:exported="true"
+35-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:18:13-36
+36            android:theme="@style/Theme.GramaUrja.Splash" >
+36-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:19:13-58
+37            <intent-filter>
+37-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:20:13-23:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:21:17-69
+38-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:21:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:22:17-77
+40-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:22:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:26:9-28:40
+44            android:name="com.gramaUrja.WelcomeActivity"
+44-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:27:13-44
+45            android:exported="false" />
+45-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:28:13-37
+46        <activity
+46-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:30:9-32:40
+47            android:name="com.gramaUrja.LoginActivity"
+47-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:31:13-42
+48            android:exported="false" />
+48-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:32:13-37
+49        <activity
+49-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:34:9-36:40
+50            android:name="com.gramaUrja.MainActivity"
+50-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:35:13-41
+51            android:exported="false" />
+51-->C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:36:13-37
+52        <activity
+52-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+53            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+53-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+54            android:excludeFromRecents="true"
+54-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+55            android:exported="true"
+55-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+56            android:launchMode="singleTask"
+56-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+57-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+58            <intent-filter>
+58-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+59                <action android:name="android.intent.action.VIEW" />
+59-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+59-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+61-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+62                <category android:name="android.intent.category.BROWSABLE" />
+62-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+62-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+63
+64                <data
+64-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+65                    android:host="firebase.auth"
+65-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+66                    android:path="/"
+66-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+67                    android:scheme="genericidp" />
+67-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+71            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+71-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+72            android:excludeFromRecents="true"
+72-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+73            android:exported="true"
+73-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+74            android:launchMode="singleTask"
+74-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+75-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+76            <intent-filter>
+76-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+77                <action android:name="android.intent.action.VIEW" />
+77-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+77-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+78
+79                <category android:name="android.intent.category.DEFAULT" />
+79-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+79-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+80                <category android:name="android.intent.category.BROWSABLE" />
+80-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+80-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+81
+82                <data
+82-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+83                    android:host="firebase.auth"
+83-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+84                    android:path="/"
+84-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+85                    android:scheme="recaptcha" />
+85-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+86            </intent-filter>
+87        </activity>
+88
+89        <service
+89-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+90            android:name="com.google.firebase.components.ComponentDiscoveryService"
+90-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:67:13-84
+91            android:directBootAware="true"
+91-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+92            android:exported="false" >
+92-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:68:13-37
+93            <meta-data
+93-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+94                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+94-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+96            <meta-data
+96-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+97                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+97-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+100                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+100-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+103                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+103-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+106                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+106-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+108        </service>
+109        <service
+109-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+110            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+110-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+111            android:enabled="true"
+111-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+112            android:exported="false" >
+112-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+113            <meta-data
+113-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+114                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+114-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+115                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+115-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+116        </service>
+117
+118        <activity
+118-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+119            android:name="androidx.credentials.playservices.HiddenActivity"
+119-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+120            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+120-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+121            android:enabled="true"
+121-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+122            android:exported="false"
+122-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+123            android:fitsSystemWindows="true"
+123-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+124            android:theme="@style/Theme.Hidden" >
+124-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+125        </activity>
+126        <activity
+126-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+127            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+127-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+128            android:excludeFromRecents="true"
+128-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+129            android:exported="false"
+129-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+130            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+130-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+131        <!--
+132            Service handling Google Sign-In user revocation. For apps that do not integrate with
+133            Google Sign-In, this service will never be started.
+134        -->
+135        <service
+135-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+136            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+136-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+137            android:exported="true"
+137-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+138            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+138-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+139            android:visibleToInstantApps="true" />
+139-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+140
+141        <provider
+141-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+142            android:name="com.google.firebase.provider.FirebaseInitProvider"
+142-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+143            android:authorities="com.gramaUrja.firebaseinitprovider"
+143-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+144            android:directBootAware="true"
+144-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+145            android:exported="false"
+145-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+146            android:initOrder="100" />
+146-->[com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+147
+148        <activity
+148-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+149            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+149-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+150            android:exported="false"
+150-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+151            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+151-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+152
+153        <provider
+153-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+154            android:name="androidx.startup.InitializationProvider"
+154-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+155            android:authorities="com.gramaUrja.androidx-startup"
+155-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+156            android:exported="false" >
+156-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+157            <meta-data
+157-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+158                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+158-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+159                android:value="androidx.startup" />
+159-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+160            <meta-data
+160-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+161                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+161-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+162                android:value="androidx.startup" />
+162-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+163            <meta-data
+163-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+164                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+164-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+165                android:value="androidx.startup" />
+165-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+166        </provider>
+167
+168        <uses-library
+168-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+169            android:name="androidx.window.extensions"
+169-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+170            android:required="false" />
+170-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+171        <uses-library
+171-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+172            android:name="androidx.window.sidecar"
+172-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+173            android:required="false" />
+173-->[androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+174
+175        <meta-data
+175-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+176            android:name="com.google.android.gms.version"
+176-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+177            android:value="@integer/google_play_services_version" />
+177-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+178
+179        <receiver
+179-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+180            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+180-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+181            android:directBootAware="false"
+181-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+182            android:enabled="true"
+182-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+183            android:exported="true"
+183-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+184            android:permission="android.permission.DUMP" >
+184-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+185            <intent-filter>
+185-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+186                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+186-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+186-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+187            </intent-filter>
+188            <intent-filter>
+188-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+189                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+189-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+189-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+190            </intent-filter>
+191            <intent-filter>
+191-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+192                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+192-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+192-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+193            </intent-filter>
+194            <intent-filter>
+194-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+195                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+195-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+195-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+196            </intent-filter>
+197        </receiver>
+198    </application>
+199
+200</manifest>

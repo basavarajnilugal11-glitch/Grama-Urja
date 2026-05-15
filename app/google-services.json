@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "583680581813",
+    "firebase_url": "https://gramaurja-33556-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramaurja-33556",
+    "storage_bucket": "gramaurja-33556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583680581813:android:531d33e95bdbc5c4431efc",
+        "android_client_info": {
+          "package_name": "com.example.gramaurja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwRaXaYd58fcgx7HD25cyaG_gGfofZE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583680581813:android:e94df2e871fcfadf431efc",
+        "android_client_info": {
+          "package_name": "com.gramaUrja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwRaXaYd58fcgx7HD25cyaG_gGfofZE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583680581813:android:46cb6c43dff7211e431efc",
+        "android_client_info": {
+          "package_name": "com.gramaurja.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwRaXaYd58fcgx7HD25cyaG_gGfofZE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

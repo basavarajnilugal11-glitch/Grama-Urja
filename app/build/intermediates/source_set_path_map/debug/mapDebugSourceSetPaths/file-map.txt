@@ -1,0 +1,61 @@
+com.gramaUrja.app-tracing-1.2.0-0 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\02e89f76c2b1b82c8a46ac851013d7cc\transformed\tracing-1.2.0\res
+com.gramaUrja.app-navigation-fragment-2.8.9-1 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0a97369905721bbd563ab8aae1d408f6\transformed\navigation-fragment-2.8.9\res
+com.gramaUrja.app-credentials-play-services-auth-1.2.0-rc01-2 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.gramaUrja.app-play-services-base-18.1.0-3 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\res
+com.gramaUrja.app-customview-poolingcontainer-1.0.0-4 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17b6d81d42dd80f0543b0dfed3ed1f4d\transformed\customview-poolingcontainer-1.0.0\res
+com.gramaUrja.app-firebase-common-21.0.0-5 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\res
+com.gramaUrja.app-core-runtime-2.2.0-6 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\28d03e8401f86c1692ec7933dc4900dc\transformed\core-runtime-2.2.0\res
+com.gramaUrja.app-navigation-common-ktx-2.8.9-7 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2916ef5ce28a6ed11c8360572de8f6f9\transformed\navigation-common-ktx-2.8.9\res
+com.gramaUrja.app-lifecycle-runtime-ktx-2.6.2-8 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2b833cfd641f6736a8990fd331a25269\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.gramaUrja.app-recyclerview-1.3.1-9 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2ff1fee06c2f3ee1fcf1cc8bf97522c7\transformed\recyclerview-1.3.1\res
+com.gramaUrja.app-navigation-ui-ktx-2.8.9-10 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\30ade91439aead30b206ac4c9a5f7907\transformed\navigation-ui-ktx-2.8.9\res
+com.gramaUrja.app-cardview-1.0.0-11 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a7e50607cac7ffa6af51f94067975e9\transformed\cardview-1.0.0\res
+com.gramaUrja.app-activity-ktx-1.10.1-12 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3d30daf62818c3f681da2b94cd365698\transformed\activity-ktx-1.10.1\res
+com.gramaUrja.app-annotation-experimental-1.4.1-13 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3fdd03dfa8497ff28e747d2f058a1697\transformed\annotation-experimental-1.4.1\res
+com.gramaUrja.app-transition-1.5.0-14 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\437373efb00ff4dd19d058bc6fcee856\transformed\transition-1.5.0\res
+com.gramaUrja.app-play-services-auth-20.7.0-15 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\res
+com.gramaUrja.app-navigation-common-2.8.9-16 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4f42c10eda8ed27ef7a2d6ec88e7b82e\transformed\navigation-common-2.8.9\res
+com.gramaUrja.app-constraintlayout-2.2.1-17 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\res
+com.gramaUrja.app-credentials-1.2.0-rc01-18 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\52fca1361a91369c5223c222e525ad97\transformed\credentials-1.2.0-rc01\res
+com.gramaUrja.app-profileinstaller-1.4.0-19 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\res
+com.gramaUrja.app-lifecycle-viewmodel-ktx-2.6.2-20 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\59b5e4069de4c77d543347e95f1e8efc\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.gramaUrja.app-slidingpanelayout-1.2.0-21 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5b55533485acf9182b2ea9674e6a569a\transformed\slidingpanelayout-1.2.0\res
+com.gramaUrja.app-navigation-runtime-2.8.9-22 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5db42d2ad583d2fcaefda7eb607d4ff2\transformed\navigation-runtime-2.8.9\res
+com.gramaUrja.app-coordinatorlayout-1.1.0-23 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6061d00f19e330dadd4f7509a1a9d395\transformed\coordinatorlayout-1.1.0\res
+com.gramaUrja.app-emoji2-1.3.0-24 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\res
+com.gramaUrja.app-appcompat-resources-1.7.0-25 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6480276ea9c0a4bf856df97acc8a7abe\transformed\appcompat-resources-1.7.0\res
+com.gramaUrja.app-appcompat-1.7.0-26 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6a41b25e1fd0159302719508afe54071\transformed\appcompat-1.7.0\res
+com.gramaUrja.app-lifecycle-livedata-core-2.6.2-27 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7085ed99c9adad8c012725a43c57aad1\transformed\lifecycle-livedata-core-2.6.2\res
+com.gramaUrja.app-core-1.16.0-28 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\res
+com.gramaUrja.app-navigation-ui-2.8.9-29 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\78fba5e7d3f4626567b1814ddb056b08\transformed\navigation-ui-2.8.9\res
+com.gramaUrja.app-drawerlayout-1.1.1-30 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\808b21a6fe3fc219de3ffe0a422fabcd\transformed\drawerlayout-1.1.1\res
+com.gramaUrja.app-lifecycle-process-2.6.2-31 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\res
+com.gramaUrja.app-startup-runtime-1.1.1-32 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\res
+com.gramaUrja.app-core-ktx-1.16.0-33 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8e5e60b9d319819095a56f0b93f10396\transformed\core-ktx-1.16.0\res
+com.gramaUrja.app-browser-1.4.0-34 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9024e0bfe3bda27181da917c832dea16\transformed\browser-1.4.0\res
+com.gramaUrja.app-window-1.0.0-35 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\res
+com.gramaUrja.app-viewpager2-1.1.0-36 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\95ec31ba42628987ef3df4a1e53c3fc5\transformed\viewpager2-1.1.0\res
+com.gramaUrja.app-core-viewtree-1.0.0-37 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9edc927b2f57eb85ca994369f648f867\transformed\core-viewtree-1.0.0\res
+com.gramaUrja.app-savedstate-1.2.1-38 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9fe67f7e2e6940704b375e1dee315749\transformed\savedstate-1.2.1\res
+com.gramaUrja.app-lifecycle-viewmodel-2.6.2-39 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a4b8d03b5e1c13bfd5e0be4fb20dee74\transformed\lifecycle-viewmodel-2.6.2\res
+com.gramaUrja.app-emoji2-views-helper-1.3.0-40 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\aec297e5a8b4994ba18bcb29293c33b8\transformed\emoji2-views-helper-1.3.0\res
+com.gramaUrja.app-material-1.12.0-41 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\res
+com.gramaUrja.app-play-services-basement-18.3.0-42 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\res
+com.gramaUrja.app-fragment-1.6.2-43 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bcdb07c5578a6a412ca6339e804c9dea\transformed\fragment-1.6.2\res
+com.gramaUrja.app-activity-1.10.1-44 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c01ce7878b1bb25b2b3a249814249a61\transformed\activity-1.10.1\res
+com.gramaUrja.app-lifecycle-viewmodel-savedstate-2.6.2-45 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\cd3cc7b28cbe370016e1e67bb62e1893\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.gramaUrja.app-fragment-ktx-1.6.2-46 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\db7dbf03a15a1f9528eddfcb443aa479\transformed\fragment-ktx-1.6.2\res
+com.gramaUrja.app-lifecycle-livedata-core-ktx-2.6.2-47 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dfba115f2554d05f80f13542f26ca6ef\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.gramaUrja.app-lifecycle-livedata-2.6.2-48 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e7b826a1754c122eea4aabc807759cfa\transformed\lifecycle-livedata-2.6.2\res
+com.gramaUrja.app-savedstate-ktx-1.2.1-49 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eb51136d6fc5e070498ccd59fb5d5549\transformed\savedstate-ktx-1.2.1\res
+com.gramaUrja.app-lifecycle-runtime-2.6.2-50 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f815f6d2cd67bd22c766b705b2ea847e\transformed\lifecycle-runtime-2.6.2\res
+com.gramaUrja.app-navigation-fragment-ktx-2.8.9-51 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\fb17f26dc2ff2fb4afdbf7d129ab0848\transformed\navigation-fragment-ktx-2.8.9\res
+com.gramaUrja.app-navigation-runtime-ktx-2.8.9-52 C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ff28fe8325ac5938b520875ce271fcc7\transformed\navigation-runtime-ktx-2.8.9\res
+com.gramaUrja.app-pngs-53 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\generated\res\pngs\debug
+com.gramaUrja.app-res-54 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\generated\res\processDebugGoogleServices
+com.gramaUrja.app-resValues-55 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\generated\res\resValues\debug
+com.gramaUrja.app-packageDebugResources-56 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gramaUrja.app-packageDebugResources-57 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gramaUrja.app-debug-58 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gramaUrja.app-debug-59 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\debug\res
+com.gramaUrja.app-main-60 C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\res

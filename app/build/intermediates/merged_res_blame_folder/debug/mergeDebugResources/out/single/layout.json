@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/fragment_pump_timer.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_pump_timer.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/fragment_home.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/fragment_zones.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_zones.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/item_feed.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/item_feed.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/activity_welcome.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/item_zone.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/item_zone.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/fragment_alerts.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/item_alert.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_main.xml"
+    }
+]

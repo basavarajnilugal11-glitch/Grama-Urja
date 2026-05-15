@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/nav_home"/>
+
+    <item
+        android:id="@+id/zonesFragment"
+        android:icon="@drawable/ic_map"
+        android:title="@string/nav_zones"/>
+
+    <item
+        android:id="@+id/pumpTimerFragment"
+        android:icon="@drawable/ic_droplet"
+        android:title="@string/nav_pump"/>
+
+    <item
+        android:id="@+id/alertsFragment"
+        android:icon="@drawable/ic_bell"
+        android:title="@string/nav_alerts"/>
+
+</menu>

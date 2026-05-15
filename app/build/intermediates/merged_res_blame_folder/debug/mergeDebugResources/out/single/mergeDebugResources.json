@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_home.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/color_nav_icon_color.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/color/nav_icon_color.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_bg_badge_green.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/bg_badge_green.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_fragment_home.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_fragment_alerts.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_fragment_zones.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_zones.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_map.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/navigation_nav_graph.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_item_divider_bg.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/item_divider_bg.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_bg_badge_amber.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/bg_badge_amber.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_bell.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_bell.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_bg_spinner.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/bg_spinner.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_item_zone.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/item_zone.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_fragment_pump_timer.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/fragment_pump_timer.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_bg_chip.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_activity_main.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_activity_welcome.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_item_alert.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_launcher.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_activity_login.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_circle_dot.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/circle_dot.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_bolt.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_bolt.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_bg_badge_red.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/bg_badge_red.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_item_feed.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/item_feed.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/layout_activity_splash.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_bolt_off.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_bolt_off.xml"
+    },
+    {
+        "merged": "com.gramaUrja.app-debug-58:/drawable_ic_droplet.xml.flat",
+        "source": "com.gramaUrja.app-main-60:/drawable/ic_droplet.xml"
+    }
+]

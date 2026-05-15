@@ -1,0 +1,664 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:viewbinding:8.10.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\70b5591402a9a315f9e5fb50368d7553\transformed\viewbinding-8.10.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4f42c10eda8ed27ef7a2d6ec88e7b82e\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2916ef5ce28a6ed11c8360572de8f6f9\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5db42d2ad583d2fcaefda7eb607d4ff2\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ff28fe8325ac5938b520875ce271fcc7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0a97369905721bbd563ab8aae1d408f6\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\fb17f26dc2ff2fb4afdbf7d129ab0848\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\30ade91439aead30b206ac4c9a5f7907\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\78fba5e7d3f4626567b1814ddb056b08\transformed\navigation-ui-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6480276ea9c0a4bf856df97acc8a7abe\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6a41b25e1fd0159302719508afe54071\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2ff1fee06c2f3ee1fcf1cc8bf97522c7\transformed\recyclerview-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\95ec31ba42628987ef3df4a1e53c3fc5\transformed\viewpager2-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\db7dbf03a15a1f9528eddfcb443aa479\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\52fca1361a91369c5223c222e525ad97\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a803a87fa2bab703015af7d70604269d\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\23a7bc53d9228a55ab867352c74b673a\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a1d6b83ca76a5f1ccadab4217854b7f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\86c6f8f8604073d2214da2c0c6f644a5\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\d9c8e4c872c557e1ab5afdd7b44441cb\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4ac5061b412cf965966862c04b8a10c3\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0b39923baf290fdb2a9d5472ca1a6185\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\aec297e5a8b4994ba18bcb29293c33b8\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\808b21a6fe3fc219de3ffe0a422fabcd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6061d00f19e330dadd4f7509a1a9d395\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5b55533485acf9182b2ea9674e6a569a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\437373efb00ff4dd19d058bc6fcee856\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e590ba12360db22c7913d9f68b9e412c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\83b51595129c2917a657b143770dcd9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eec5dbdb425fef7cb53bd640913ce200\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4bb781fc994ca6ef887dfb6e86ebd205\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b6a64a3907f753d2e753a5b0996f6e7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5193021300caaeca63d0f45a7daa159\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bb0a88bce31cf7114ed91a0b07ffcc2f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9024e0bfe3bda27181da917c832dea16\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3d30daf62818c3f681da2b94cd365698\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7085ed99c9adad8c012725a43c57aad1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2b833cfd641f6736a8990fd331a25269\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\59b5e4069de4c77d543347e95f1e8efc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dfba115f2554d05f80f13542f26ca6ef\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e7b826a1754c122eea4aabc807759cfa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a4b8d03b5e1c13bfd5e0be4fb20dee74\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f815f6d2cd67bd22c766b705b2ea847e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\cd3cc7b28cbe370016e1e67bb62e1893\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eb51136d6fc5e070498ccd59fb5d5549\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9fe67f7e2e6940704b375e1dee315749\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8896bd22552e96d8186f458db9673983\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bcdb07c5578a6a412ca6339e804c9dea\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c01ce7878b1bb25b2b3a249814249a61\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17b6d81d42dd80f0543b0dfed3ed1f4d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8e5e60b9d319819095a56f0b93f10396\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9edc927b2f57eb85ca994369f648f867\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f4c0dde09ef61b79a56cca7ac96a734f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a7e50607cac7ffa6af51f94067975e9\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\02e89f76c2b1b82c8a46ac851013d7cc\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b7281831fc1ce3fa06ba1ff4097e9d59\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dae99b2cd3ce8656d82d94b3e3bb1352\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1a8194aa813187cd22e5cb1cf79b25c1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c73f42fd137e2fcb30fb25e61fabfdf9\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\28d03e8401f86c1692ec7933dc4900dc\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7c0cad9687608f043e98d263313f953d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7f91010fad5ba2840a50d3e08ca93f63\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3fdd03dfa8497ff28e747d2f058a1697\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b6d1c6cb422a3b804cc14767b62cd95c\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:7:5-38:19
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\23a7bc53d9228a55ab867352c74b673a\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\23a7bc53d9228a55ab867352c74b673a\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a1d6b83ca76a5f1ccadab4217854b7f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a1d6b83ca76a5f1ccadab4217854b7f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\86c6f8f8604073d2214da2c0c6f644a5\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\86c6f8f8604073d2214da2c0c6f644a5\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4ac5061b412cf965966862c04b8a10c3\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4ac5061b412cf965966862c04b8a10c3\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8896bd22552e96d8186f458db9673983\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8896bd22552e96d8186f458db9673983\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dae99b2cd3ce8656d82d94b3e3bb1352\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dae99b2cd3ce8656d82d94b3e3bb1352\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:12:9-54
+	android:largeHeap
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:9:9-33
+	android:icon
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:14:9-47
+activity#com.gramaUrja.SplashActivity
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:19:13-58
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:17:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.gramaUrja.WelcomeActivity
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:27:13-44
+activity#com.gramaUrja.LoginActivity
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:31:13-42
+activity#com.gramaUrja.MainActivity
+ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml:35:13-41
+uses-sdk
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.10.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\70b5591402a9a315f9e5fb50368d7553\transformed\viewbinding-8.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\70b5591402a9a315f9e5fb50368d7553\transformed\viewbinding-8.10.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4f42c10eda8ed27ef7a2d6ec88e7b82e\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4f42c10eda8ed27ef7a2d6ec88e7b82e\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2916ef5ce28a6ed11c8360572de8f6f9\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2916ef5ce28a6ed11c8360572de8f6f9\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5db42d2ad583d2fcaefda7eb607d4ff2\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5db42d2ad583d2fcaefda7eb607d4ff2\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ff28fe8325ac5938b520875ce271fcc7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ff28fe8325ac5938b520875ce271fcc7\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0a97369905721bbd563ab8aae1d408f6\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0a97369905721bbd563ab8aae1d408f6\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\fb17f26dc2ff2fb4afdbf7d129ab0848\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\fb17f26dc2ff2fb4afdbf7d129ab0848\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\30ade91439aead30b206ac4c9a5f7907\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\30ade91439aead30b206ac4c9a5f7907\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\78fba5e7d3f4626567b1814ddb056b08\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\78fba5e7d3f4626567b1814ddb056b08\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b31a43a0b23672e68098c7b64c8aa6f0\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\503bc770e93eca4b24d481b468a1c426\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6480276ea9c0a4bf856df97acc8a7abe\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6480276ea9c0a4bf856df97acc8a7abe\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6a41b25e1fd0159302719508afe54071\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6a41b25e1fd0159302719508afe54071\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2ff1fee06c2f3ee1fcf1cc8bf97522c7\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2ff1fee06c2f3ee1fcf1cc8bf97522c7\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\95ec31ba42628987ef3df4a1e53c3fc5\transformed\viewpager2-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\95ec31ba42628987ef3df4a1e53c3fc5\transformed\viewpager2-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\db7dbf03a15a1f9528eddfcb443aa479\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\db7dbf03a15a1f9528eddfcb443aa479\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\52fca1361a91369c5223c222e525ad97\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\52fca1361a91369c5223c222e525ad97\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a803a87fa2bab703015af7d70604269d\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a803a87fa2bab703015af7d70604269d\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\23a7bc53d9228a55ab867352c74b673a\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\23a7bc53d9228a55ab867352c74b673a\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a1d6b83ca76a5f1ccadab4217854b7f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a1d6b83ca76a5f1ccadab4217854b7f\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\86c6f8f8604073d2214da2c0c6f644a5\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\86c6f8f8604073d2214da2c0c6f644a5\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\d9c8e4c872c557e1ab5afdd7b44441cb\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\d9c8e4c872c557e1ab5afdd7b44441cb\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4ac5061b412cf965966862c04b8a10c3\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4ac5061b412cf965966862c04b8a10c3\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0b39923baf290fdb2a9d5472ca1a6185\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0b39923baf290fdb2a9d5472ca1a6185\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\aec297e5a8b4994ba18bcb29293c33b8\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\aec297e5a8b4994ba18bcb29293c33b8\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\808b21a6fe3fc219de3ffe0a422fabcd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\808b21a6fe3fc219de3ffe0a422fabcd\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6061d00f19e330dadd4f7509a1a9d395\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\6061d00f19e330dadd4f7509a1a9d395\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5b55533485acf9182b2ea9674e6a569a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\5b55533485acf9182b2ea9674e6a569a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\437373efb00ff4dd19d058bc6fcee856\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\437373efb00ff4dd19d058bc6fcee856\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e590ba12360db22c7913d9f68b9e412c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e590ba12360db22c7913d9f68b9e412c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\83b51595129c2917a657b143770dcd9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\83b51595129c2917a657b143770dcd9e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eec5dbdb425fef7cb53bd640913ce200\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eec5dbdb425fef7cb53bd640913ce200\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4bb781fc994ca6ef887dfb6e86ebd205\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4bb781fc994ca6ef887dfb6e86ebd205\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b6a64a3907f753d2e753a5b0996f6e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b6a64a3907f753d2e753a5b0996f6e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5193021300caaeca63d0f45a7daa159\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5193021300caaeca63d0f45a7daa159\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bb0a88bce31cf7114ed91a0b07ffcc2f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bb0a88bce31cf7114ed91a0b07ffcc2f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9024e0bfe3bda27181da917c832dea16\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9024e0bfe3bda27181da917c832dea16\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3d30daf62818c3f681da2b94cd365698\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3d30daf62818c3f681da2b94cd365698\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7085ed99c9adad8c012725a43c57aad1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7085ed99c9adad8c012725a43c57aad1\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2b833cfd641f6736a8990fd331a25269\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\2b833cfd641f6736a8990fd331a25269\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\59b5e4069de4c77d543347e95f1e8efc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\59b5e4069de4c77d543347e95f1e8efc\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dfba115f2554d05f80f13542f26ca6ef\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dfba115f2554d05f80f13542f26ca6ef\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e7b826a1754c122eea4aabc807759cfa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\e7b826a1754c122eea4aabc807759cfa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a4b8d03b5e1c13bfd5e0be4fb20dee74\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\a4b8d03b5e1c13bfd5e0be4fb20dee74\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f815f6d2cd67bd22c766b705b2ea847e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f815f6d2cd67bd22c766b705b2ea847e\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\cd3cc7b28cbe370016e1e67bb62e1893\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\cd3cc7b28cbe370016e1e67bb62e1893\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eb51136d6fc5e070498ccd59fb5d5549\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\eb51136d6fc5e070498ccd59fb5d5549\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9fe67f7e2e6940704b375e1dee315749\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9fe67f7e2e6940704b375e1dee315749\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8896bd22552e96d8186f458db9673983\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8896bd22552e96d8186f458db9673983\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bcdb07c5578a6a412ca6339e804c9dea\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\bcdb07c5578a6a412ca6339e804c9dea\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c01ce7878b1bb25b2b3a249814249a61\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c01ce7878b1bb25b2b3a249814249a61\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17b6d81d42dd80f0543b0dfed3ed1f4d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17b6d81d42dd80f0543b0dfed3ed1f4d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8e5e60b9d319819095a56f0b93f10396\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\8e5e60b9d319819095a56f0b93f10396\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9edc927b2f57eb85ca994369f648f867\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\9edc927b2f57eb85ca994369f648f867\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f4c0dde09ef61b79a56cca7ac96a734f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\f4c0dde09ef61b79a56cca7ac96a734f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a7e50607cac7ffa6af51f94067975e9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3a7e50607cac7ffa6af51f94067975e9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\02e89f76c2b1b82c8a46ac851013d7cc\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\02e89f76c2b1b82c8a46ac851013d7cc\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b7281831fc1ce3fa06ba1ff4097e9d59\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b7281831fc1ce3fa06ba1ff4097e9d59\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dae99b2cd3ce8656d82d94b3e3bb1352\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\dae99b2cd3ce8656d82d94b3e3bb1352\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1a8194aa813187cd22e5cb1cf79b25c1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1a8194aa813187cd22e5cb1cf79b25c1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c73f42fd137e2fcb30fb25e61fabfdf9\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\c73f42fd137e2fcb30fb25e61fabfdf9\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\28d03e8401f86c1692ec7933dc4900dc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\28d03e8401f86c1692ec7933dc4900dc\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7c0cad9687608f043e98d263313f953d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7c0cad9687608f043e98d263313f953d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7f91010fad5ba2840a50d3e08ca93f63\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\7f91010fad5ba2840a50d3e08ca93f63\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3fdd03dfa8497ff28e747d2f058a1697\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\3fdd03dfa8497ff28e747d2f058a1697\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b6d1c6cb422a3b804cc14767b62cd95c\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b6d1c6cb422a3b804cc14767b62cd95c\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pooja Nilugal\Downloads\GramaUrja (4)\GramaUrja\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4cf67831c0479ef16cd69404216de3c3\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\04c8e864d530f37ee47fcf8aa8d78bcf\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\0f3290daf78cf5f75671a5381c583712\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\4b681a074f2a09710c6e6dee7cc6511b\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\ee945ee11997d7d073c9c8f8137906a5\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b0603a00db1a74eeeb5a7531afae890a\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\1beb1d829521156073ed1de3ea90d152\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\17a7624b1f4c9699b068af6339797274\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\886dac2c176828284738258750fe8d14\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\606bd87de6c4b11d1d28d06b88037eb9\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\940dc34f6830d5faf1a0755a65e311ea\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.gramaUrja.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.gramaUrja.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\75fdbceda58b0e062d0981d2387eb714\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\82ce629c4d36cb01be5d87da40917b36\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\b5a888f7d63137560dd9f8fc24e2e568\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Pooja Nilugal\.gradle\caches\8.11.1\transforms\539d88bde0f5860b97b582bf755ce1ac\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

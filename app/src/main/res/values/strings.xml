@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grama-Urja</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_zones">Zones</string>
+    <string name="nav_pump">Pump</string>
+    <string name="nav_alerts">Alerts</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber_dark">#92400E</color>
+    <color name="amber_primary">#FCD34D</color>
+    <color name="background_dark">#0D1117</color>
+    <color name="badge_amber_bg">#92400E</color>
+    <color name="badge_green_bg">#166534</color>
+    <color name="badge_red_bg">#7F1D1D</color>
+    <color name="divider">#30363D</color>
+    <color name="green_dark">#166534</color>
+    <color name="green_light">#7EE8A2</color>
+    <color name="green_primary">#4ADE80</color>
+    <color name="nav_active">#4ADE80</color>
+    <color name="nav_inactive">#6B7280</color>
+    <color name="power_off_bg">#2D0F0F</color>
+    <color name="power_on_bg">#0F2D1A</color>
+    <color name="red_dark">#7F1D1D</color>
+    <color name="red_primary">#F87171</color>
+    <color name="surface_bottom">#161B22</color>
+    <color name="surface_card">#161B22</color>
+    <color name="surface_header">#161B22</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="text_primary">#E5E7EB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <string name="app_name">Grama-Urja</string>
+    <string name="firebase_database_url" translatable="false">https://gramaurja-33556-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">583680581813</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCwRaXaYd58fcgx7HD25cyaG_gGfofZE8</string>
+    <string name="google_app_id" translatable="false">1:583680581813:android:e94df2e871fcfadf431efc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCwRaXaYd58fcgx7HD25cyaG_gGfofZE8</string>
+    <string name="google_storage_bucket" translatable="false">gramaurja-33556.firebasestorage.app</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_pump">Pump</string>
+    <string name="nav_zones">Zones</string>
+    <string name="project_id" translatable="false">gramaurja-33556</string>
+    <style name="Theme.GramaUrja" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/background_dark</item>
+        <item name="colorSecondary">@color/green_light</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:navigationBarColor">@color/surface_bottom</item>
+    </style>
+    <style name="Theme.GramaUrja.Splash" parent="Theme.GramaUrja">
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

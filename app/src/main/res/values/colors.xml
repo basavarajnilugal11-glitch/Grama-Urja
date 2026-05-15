@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme backgrounds -->
+    <color name="background_dark">#0D1117</color>
+    <color name="surface_card">#161B22</color>
+    <color name="surface_header">#161B22</color>
+    <color name="surface_bottom">#161B22</color>
+
+    <!-- Power status backgrounds -->
+    <color name="power_on_bg">#0F2D1A</color>
+    <color name="power_off_bg">#2D0F0F</color>
+
+    <!-- Green palette -->
+    <color name="green_primary">#4ADE80</color>
+    <color name="green_light">#7EE8A2</color>
+    <color name="green_dark">#166534</color>
+
+    <!-- Red palette -->
+    <color name="red_primary">#F87171</color>
+    <color name="red_dark">#7F1D1D</color>
+
+    <!-- Amber palette -->
+    <color name="amber_primary">#FCD34D</color>
+    <color name="amber_dark">#92400E</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#E5E7EB</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#6B7280</color>
+
+    <!-- Nav + UI -->
+    <color name="nav_active">#4ADE80</color>
+    <color name="nav_inactive">#6B7280</color>
+    <color name="divider">#30363D</color>
+
+    <!-- Badge backgrounds -->
+    <color name="badge_green_bg">#166534</color>
+    <color name="badge_red_bg">#7F1D1D</color>
+    <color name="badge_amber_bg">#92400E</color>
+</resources>
